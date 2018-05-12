@@ -1,10 +1,16 @@
 _repo: Conversazioni-critiche_46843
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46843-h/images/cover.jpg
 creator:
   author:
     agent_name: Carducci, Giosuè
     gutenberg_agent_id: '43982'
     url: http://www.gutenberg.org/2009/agents/43982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46843#Conversazioni-critiche
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2014-09-11'
 gutenberg_type: Text
